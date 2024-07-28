@@ -1,2 +1,2 @@
 # Library-Management-System
-Use java language 
+Use java language and JDBC
